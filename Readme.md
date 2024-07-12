@@ -49,18 +49,23 @@
 
 › Press f to run only failed tests.
   اضغط f لتشغيل الاختبارات التي فشلت فقط.
+<hr/>
 
 › Press o to only run tests related to changed files.
   اضغط o لتشغيل الاختبارات المتعلقة بالملفات التي تم تغييرها فقط.
+<hr/>
 
 › Press p to filter by a filename regex pattern.
   اضغط p لتصفية الملفات باستخدام نمط تعبير عادي (regex).
+<hr/>
 
 › Press t to filter by a test name regex pattern.
   اضغط t لتصفية الاختبارات باستخدام نمط تعبير عادي (regex).
 
+<hr/>
 › Press q to quit watch mode.
   اضغط q للخروج من وضع المشاهدة.
 
+<hr/>
 › Press Enter to trigger a test run.
   اضغط Enter لتشغيل الاختبارات.
